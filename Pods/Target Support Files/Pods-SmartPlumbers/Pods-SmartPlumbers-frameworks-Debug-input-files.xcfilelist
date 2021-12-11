@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SmartPlumbers/Pods-SmartPlumbers-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/SwiftChart/SwiftChart.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

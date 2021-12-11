@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - SwiftChart (1.0.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - SwiftChart
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SwiftChart
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 68915c411656ee7f518e59d85689f66e9ab4f203
+
+COCOAPODS: 1.11.2

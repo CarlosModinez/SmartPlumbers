@@ -1,0 +1,23 @@
+/* 
+  Strings.strings
+  SmartPlumbers
+
+  Created by Carlos Roberto Modinez Junior on 14/10/21.
+  
+*/
+
+
+"fundsPageTitle" = "Sensores monitorados";
+"minimumApplicationValueText" = "Aplicação mínima: %@";
+"riskScaleTitle" = "Escala de risco";
+"riskScaleSmaller" = "ideal";
+"riskScaleBigger" = "alto";
+
+"detailsPageTitle" = "Detalhes do sensor";
+"creationDateTitle" = "Temperatura de operação";
+
+"internetConnectionFailedTitle" = "Conexão ruim";
+"internetConnectionFailedDescription" = "Parece que você está com problemas na conexão. Verique e tente novamente";
+
+"generalApiErrorTitle" = "Ops, parece que algo não está certo";
+"generalApiErrorDescription" = "Estamos com problemas no momento. Tenta de novo daqui a pouco";
